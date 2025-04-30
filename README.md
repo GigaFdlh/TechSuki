@@ -1,0 +1,2 @@
+# TechSuki
+sementara kosong dulu
