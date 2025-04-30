@@ -11,5 +11,3 @@ export const { GET, POST, PUT } = serve({
     synUserDelete
   ],
 });
-
-//halo gaaes
